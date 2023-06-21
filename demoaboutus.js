@@ -13,7 +13,8 @@ let header_height = header.offsetHeight;
 let section_height = section.offsetHeight;
 
 window.addEventListener('scroll', () => {
-    let scroll = window.pageYOffset;
+    let scroll = window.AbortController
+    
     let sectionY = section.getBoundingClientRect();
     
     translate.forEach(element => {
@@ -26,7 +27,7 @@ window.addEventListener('scroll', () => {
     })
 
     big_title.style.opacity = - scroll / (header_height / 2) + 1;
-    shadow.style.height = `${scroll * 0.5 + 300}px`;
+    shadow.style.height = `${scroll + 300}px`;
 
     content.style.transform = `translateY(${scroll / (section_height + sectionY.top) * 50 - 50}px)`;
     image_container.style.transform = `translateY(${scroll / (section_height + sectionY.top) * -50 + 50}px)`;
