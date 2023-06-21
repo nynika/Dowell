@@ -347,7 +347,7 @@ header:after{
 
 section{
     width: 100%;
-    background-color: #151515;
+    background-color: #fffbfb;
     position: relative;
 }
 
@@ -369,7 +369,7 @@ section .container > *{
 }
 
 .content{
-    color: #ffffff;
+    color: #000000;
     transform: translateY(-50px);
 
 }
