@@ -66,7 +66,7 @@ body{
      color: rgb(173, 37, 37);
      font-size: 24px;
      font-weight: 600;
-     line-height: 70px;
+     line-height: 60px;
      padding-left: 80px;
      font-family: 'Times New Roman', Times, serif;
    }
@@ -242,7 +242,7 @@ body{
     .headcentered{
       position: absolute;
       top: 30%;
-      left: 22%;
+      left: 28%;
       font-size: 60px;
       font-weight: 1000;
       transform: translate(-50%, -50%);
@@ -651,7 +651,12 @@ top: 0;
 bottom: 0;
 
 }
- 
+   
+   
+
+  
+
+
 
 .testimonial-text{
   background: #fff;
