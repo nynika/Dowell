@@ -636,7 +636,20 @@ body{
   font-size: 18px;
   transition: 0.5s;
   display: inline-block;
-}  
+} 
+
+.apply-now1{
+  position: relative;
+  left: 200px;
+  bottom: 33px;
+  color: white;
+  padding: 0.6rem 1.5rem;
+  border: 1px solid orange;
+  border-radius: 10px;
+  font-size: 18px;
+  transition: 0.5s;
+  display: inline-block;
+}
 .centered {
   position: absolute;
   top: 35%;
