@@ -4,11 +4,10 @@ const testimonials = [
       head:"Ramco Systems Limited",
       job: "Head - Professional Services",
       name: "Sd: M.Anbazhagan",
-     /*  image: "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-03/Logo_4.svg",*/
-     saying: "We find them to be very reliable and consistent in their performance. They have deployed well trained consultants at site with professional approach to the assignments and earned the utmost confidence of our clients.",
+     saying: "Their services are appreciable and satisfactory.",
      
       testimonial:
-        "This is to certify that M/S. Dowell Technologies Pvt.Ltd., Chennai 600 016 is associated with us as implementation Partner from March- 2004. They have been successfully implementing our ERP Application for our key clients in various locations in India. "
+        "This is to certify that M/S. Dowell Technologies Pvt.Ltd., Chennai 600 016 is associated with us as implementation Partner from March- 2004. They have been successfully implementing our ERP Application for our key clients in various locations in India.We find them to be very reliable and consistent in their performance. They have deployed well trained consultants at site with professional approach to the assignments and earned the utmost confidence of our clients. "
          
     },
     {
@@ -33,10 +32,10 @@ const testimonials = [
               job: "For Dinesh Chandra.",
               name: "Sd:Manager - Computer Services",
              
-             saying:"We have developed application software for many customers. In carrying out development of software, the services of Dowell Consultants, Madras, were obtained. Their team which included Mr. K.S. Sathya Prakash also, has done a very good job for us and deserves our appreciation.",
+             saying:"We wish Dowell Technologies all the very best for the future!!",
              
               testimonial:
-                "We, Mannai Trading Company, Doha, State of Qatar, are distributors of Computers manufactured by Digital Equipment Corporation, USA Apart from carrying out various business activities, we develop software for in-house applications as well as for various clients in the State of Qatar.",
+                "We, Mannai Trading Company, Doha, State of Qatar, are distributors of Computers manufactured by Digital Equipment Corporation, USA Apart from carrying out various business activities, we develop software for in-house applications as well as for various clients in the State of Qatar.We have developed application software for many customers. In carrying out development of software, the services of Dowell Consultants, Madras, were obtained. Their team which included Mr. K.S. Sathya Prakash also, has done a very good job for us and deserves our appreciation.",
             },  
     {
               head:"ORBITECH Software Solutions Limited",
